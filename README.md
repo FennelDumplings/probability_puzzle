@@ -19,7 +19,7 @@
 
 | 编号 | 链接                                                           |
 | --   | --                                                             |
-| 1    | [抽屉中的袜子](./problems/Puzzle-The-Sock-Drawer.md)           |
+| 1    | [抽屉中的袜子](./problems/The-Sock-Drawer.md)           |
 | 2    | [系列赛中连续获胜](./problems/Successive-Wins.md)              |
 | 3    | [轻率的陪审团](./problems/The-Flippant-Juror.md)               |
 | 4    | [三人循环赛](./problems/https://chengzhaoxi.xyz/5ddc2958.html) |

@@ -17,6 +17,8 @@
 
 # 已更新题目汇总
 
+由于 github 的 markdown 不支持 LaTeX 公式，因此链接给的是我的网站的链接，阅读效果更好。
+
 | 编号 | 题目                                                                  | 备注 |
 | --   | --                                                                    | -    |
 | 1    | [抽屉中的袜子](https://chengzhaoxi.xyz/5b96d3b7.html)                 | -    |

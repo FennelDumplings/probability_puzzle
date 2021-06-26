@@ -1,0 +1,105 @@
+---
+top: 0
+title: 【Puzzle】三人循环赛
+abbrlink: 5ddc2958
+date: 2021-05-26 23:17:38
+tags:
+  - 概率
+  - Puzzle
+categories:
+  - 数
+  - 概率
+thumbnail: https://i.loli.net/2021/05/26/QM4KxXeNBEIurod.jpg
+---
+
+# 问题描述
+
+A,B,C 三个人比赛，A赢B的概率是0.4，A赢C的概率是0.6，B赢C的概率是0.8。不存在和棋。
+
+现在他们打大循环(两两之间均有一场比赛，每人两场)决出冠军，如果出现三个人均赢一盘棋的情况，则加赛一轮大循环，直到决出冠军 
+
+求: A 最终胜出的概率
+
+# 思路参考
+
+记 Pab 为 ab 之间的比赛 a 获胜的概率，Pac 为 ac 之间的比赛 a 获胜的概率，Pbc 为 bc 之间的比赛 b 获胜的概率
+
+两两之间均有一场比赛，一共有三场比赛。每场比赛有两种结果，三场比赛共有 8 种结果。
+
+这 8 种结果中，A 在 AB 之间的比赛和 A 在 AC 之间的比赛均获胜时，A 夺冠，占 8 种比赛结果中的两种，概率为 `Pab * Pac`。
+
+当 A 在 AB 之间的比赛获胜、C 在 AC 之间的比赛获胜、B 在 BC 之间的比赛获胜时，需要重新进行大循环赛，占 8 中比赛结果中的 1 种，概率为 `Pab * (1 - Pac) * Pbc`。
+
+当 B 在 AB 之间的比赛获胜、A 在 AC 之间的比赛获胜、C 在 BC 之间的比赛获胜时，需要重新进行大循环赛，占 8 中比赛结果中的 1 种，概率为 `(1 - Pab) * Pac * (1 - Pbc)`。
+
+其余的 4 中比赛结果为 A 未夺冠。
+
+记循环赛后 A 夺冠的概率为 P
+
+$$
+\begin{align}
+P &= Pab \times Pac + (Pab \times (1 - Pac) \times Pbc + (1 - Pab) \times Pac \times (1 - Pbc)) \times P \\ 
+&= \frac{2}{5} \times \frac{3}{5} + (\frac{2}{5} \times (1 - \frac{3}{5}) \times \frac{4}{5} + (1 - \frac{2}{5}) \times \frac{3}{5} \times (1 - \frac{4}{5})) \times P \\
+\end{align} \\
+$$
+
+$$
+125P = 30 + (16 + 9) \times P
+$$
+
+求的答案
+
+$$
+P = \frac{3}{10}
+$$
+
+## 蒙特卡洛模拟
+
+```python
+import numpy as np
+
+Pab = 0.4
+Pac = 0.6
+Pbc = 0.8
+
+def round():
+    ab = ac = bc = 0
+    if np.random.rand() >= Pab:
+        ab = 1
+    if np.random.rand() >= Pac:
+        ac = 1
+    if np.random.rand() >= Pbc:
+        bc = 1
+    if ab == 1 and ac == 0 and bc == 1:
+        return round()
+    if ab == 0 and ac == 1 and bc == 0:
+        return round()
+    if ab == 1 and ac == 1:
+        return 1
+    else:
+        return 0
+
+T = int(1e5)
+
+for i in range(10):
+    na = 0
+    for t in range(T):
+        na += round()
+    print("P(a win): {:.4f}".format(na  / T))
+```
+
+模拟结果
+
+```plain
+P(a win): 0.2997
+P(a win): 0.2989
+P(a win): 0.2999
+P(a win): 0.2987
+P(a win): 0.3007
+P(a win): 0.3010
+P(a win): 0.2991
+P(a win): 0.2995
+P(a win): 0.2975
+P(a win): 0.3002
+```
+

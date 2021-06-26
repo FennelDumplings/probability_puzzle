@@ -4,7 +4,7 @@
 
 本仓库持续更新【概率计算】问题及解答。主要来源是一些书、我和周围朋友面试遇到的题以及网上的零散面经中觉得还不错的题。
 
-对于每道题，首先给出思路参考，从概率论的角度推公式求解，然后用蒙特卡洛模拟的方式验证结果，编程语言用的是 Python。
+对于每道题，首先给出思路参考，从概率论的角度推公式求解。然后用蒙特卡洛模拟的方式验证结果，编程语言用的是 Python。
 
 ---
 
@@ -17,18 +17,19 @@
 
 # 已更新题目汇总
 
-| 编号 | 链接                                                                 |
-| --   | --                                                                   |
-| 1    | [抽屉中的袜子](./problems/The-Sock-Drawer.md)                        |
-| 2    | [系列赛中连续获胜](./problems/Successive-Wins.md)                    |
-| 3    | [轻率的陪审团](./problems/The-Flippant-Juror.md)                     |
-| 4    | [三人循环赛](./problems/三人循环赛.md)                               |
-| 5    | [试验直到第一次成功](./problems/Trials-Until-First-Success.md)       |
-| 6    | [公司从用户一次游戏取得的收入](./problems/一次游戏通关带来的收入.md) |
-| 7    | [向正方形区域扔硬币](./problems/Coin-in-Square.md)                   |
-| 8    | [祝你好运](./problems/Chuck-a-luck.md)                               |
-| 9    | [资助赌徒](./problems/Curing-the-Compulsive-Gambler.md)              |
-| 10   | [完美手牌](./problems/Perfect-Bridge-Hand.md)                        |
+| 编号 | 题目                                                                  | 备注 |
+| --   | --                                                                    | -    |
+| 1    | [抽屉中的袜子](https://chengzhaoxi.xyz/5b96d3b7.html)                 | -    |
+| 2    | [系列赛中连续获胜](https://chengzhaoxi.xyz/7baa7d02.html)             | -    |
+| 3    | [轻率的陪审团](https://chengzhaoxi.xyz/562429f2.html)                 | -    |
+| 4    | [三人循环赛](https://chengzhaoxi.xyz/5ddc2958.html)                   | -    |
+| 5    | [试验直到第一次成功](https://chengzhaoxi.xyz/a8fe89ba.html)           | -    |
+| 6    | [公司从用户一次游戏取得的收入](https://chengzhaoxi.xyz/cbac9217.html) | -    |
+| 7    | [向正方形区域扔硬币](https://chengzhaoxi.xyz/ecb676f8.html)           | -    |
+| 8    | [祝你好运](https://chengzhaoxi.xyz/997685ba.html)                     | -    |
+| 9    | [资助赌徒](https://chengzhaoxi.xyz/b39ddb37.html)                     | -    |
+| 10   | [完美手牌](https://chengzhaoxi.xyz/c5969f62.html)                     | -    |
+
 
 
 

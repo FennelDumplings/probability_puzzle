@@ -1,18 +1,6 @@
----
-top: 0
-title: 【Puzzle】Trials-Until-First-Success
-abbrlink: a8fe89ba
-date: 2021-05-27 16:51:31
-tags:
-  - 概率
-  - Puzzle
-categories:
-  - 数
-  - 概率
-thumbnail: https://i.loli.net/2021/05/25/FXob8M72YK1nhLD.jpg
----
+# 写在前面
 
-参考: 《Fifty challenging problems in probability with solutions》 
+本题来自 《Fifty challenging problems in probability with solutions》。
 
 ---
 

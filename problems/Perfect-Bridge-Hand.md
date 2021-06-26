@@ -1,27 +1,13 @@
----
-top: 0
-title: 【Puzzle】完美手牌
-abbrlink: c5969f62
-date: 2021-06-26 10:48:32
-tags:
-  - 概率
-  - Puzzle
-categories:
-  - 数
-  - 概率
-thumbnail: https://i.loli.net/2021/05/25/FXob8M72YK1nhLD.jpg
----
+# 写在前面
 
-这是概率面试题连载第 10 期，我们继续看 《Fifty challenging problems in probability with solutions》 中的一道题。
-
-往期的内容整理在这个 github 仓库里 [probability_puzzle](https://github.com/FennelDumplings/probability_puzzle)。
+本题来自 《Fifty challenging problems in probability with solutions》。
 
 ---
 
 # 问题描述
 
 >Puzzle-Perfect-Bridge-Hand
->-
+>--
 >We often read of someone who has been dealt 13 spades at bridge
 >With a well-shuffled deck of cards, what is the chance that you are dealt a perfect hand (13 of one suit)?
 

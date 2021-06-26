@@ -17,16 +17,20 @@
 
 # 已更新题目汇总
 
-| 编号 | 链接                                                                  |
-| --   | --                                                                    |
-| 1    | [抽屉中的袜子](./problems/Puzzle-The-Sock-Drawer.md)                 |
-| 2    | [系列赛中连续获胜](https://chengzhaoxi.xyz/7baa7d02.html)             |
-| 3    | [轻率的陪审团](https://chengzhaoxi.xyz/562429f2.html)                 |
-| 4    | [三人循环赛](https://chengzhaoxi.xyz/5ddc2958.html)                   |
-| 5    | [试验直到第一次成功](https://chengzhaoxi.xyz/a8fe89ba.html)           |
-| 6    | [公司从用户一次游戏取得的收入](https://chengzhaoxi.xyz/cbac9217.html) |
-| 7    | [向正方形区域扔硬币](https://chengzhaoxi.xyz/ecb676f8.html)           |
-| 8    | [祝你好运](https://chengzhaoxi.xyz/997685ba.html)                     |
-| 9    | [资助赌徒](https://chengzhaoxi.xyz/b39ddb37.html)                     |
-| 10   | [完美手牌](https://chengzhaoxi.xyz/c5969f62.html)                     |
+| 编号 | 链接                                                           |
+| --   | --                                                             |
+| 1    | [抽屉中的袜子](./problems/Puzzle-The-Sock-Drawer.md)           |
+| 2    | [系列赛中连续获胜](./problems/Successive-Wins.md)              |
+| 3    | [轻率的陪审团](./problems/The-Flippant-Juror.md)               |
+| 4    | [三人循环赛](./problems/https://chengzhaoxi.xyz/5ddc2958.html) |
+| 5    | [试验直到第一次成功](./problems/一次游戏通关带来的收入.md)     |
+| 6    | [公司从用户一次游戏取得的收入](./problems/三人循环赛.md)       |
+| 7    | [向正方形区域扔硬币](./problems/Coin-in-Square.md)             |
+| 8    | [祝你好运](./problems/Chuck-a-luck.md)                         |
+| 9    | [资助赌徒](./problems/Curing-the-Compulsive-Gambler.md)        |
+| 10   | [完美手牌](./problems/Perfect-Bridge-Hand.md)                  |
+
+
+
+
 

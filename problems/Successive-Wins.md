@@ -1,18 +1,7 @@
----
-top: 0
-title: 【Puzzle】Successive-Wins
-abbrlink: 7baa7d02
-date: 2021-05-26 10:25:46
-tags:
-  - 概率
-  - Puzzle
-categories:
-  - 数
-  - 概率
-thumbnail: https://i.loli.net/2021/05/25/FXob8M72YK1nhLD.jpg
----
 
-参考: 《Fifty challenging problems in probability with solutions》 
+# 写在前面
+
+本题来自 《Fifty challenging problems in probability with solutions》。
 
 ---
 

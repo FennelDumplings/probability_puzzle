@@ -19,18 +19,20 @@
 
 由于 github 的 markdown 不支持 LaTeX 公式，因此链接给的是我的网站的链接，阅读效果更好。
 
-| 编号 | 题目                                                                  | 备注 |
-| --   | --                                                                    | -    |
-| 1    | [抽屉中的袜子](https://chengzhaoxi.xyz/5b96d3b7.html)                 | -    |
-| 2    | [系列赛中连续获胜](https://chengzhaoxi.xyz/7baa7d02.html)             | -    |
-| 3    | [轻率的陪审团](https://chengzhaoxi.xyz/562429f2.html)                 | -    |
-| 4    | [三人循环赛](https://chengzhaoxi.xyz/5ddc2958.html)                   | -    |
-| 5    | [试验直到第一次成功](https://chengzhaoxi.xyz/a8fe89ba.html)           | -    |
-| 6    | [公司从用户一次游戏取得的收入](https://chengzhaoxi.xyz/cbac9217.html) | -    |
-| 7    | [向正方形区域扔硬币](https://chengzhaoxi.xyz/ecb676f8.html)           | -    |
-| 8    | [祝你好运](https://chengzhaoxi.xyz/997685ba.html)                     | -    |
-| 9    | [资助赌徒](https://chengzhaoxi.xyz/b39ddb37.html)                     | -    |
-| 10   | [完美手牌](https://chengzhaoxi.xyz/c5969f62.html)                     | -    |
+| 编号 | 题目                                                                  | 备注                     |
+| --   | --                                                                    | -                        |
+| 1    | [抽屉中的袜子](https://chengzhaoxi.xyz/5b96d3b7.html)                 | -                        |
+| 2    | [系列赛中连续获胜](https://chengzhaoxi.xyz/7baa7d02.html)             | -                        |
+| 3    | [轻率的陪审团](https://chengzhaoxi.xyz/562429f2.html)                 | -                        |
+| 4    | [三人循环赛](https://chengzhaoxi.xyz/5ddc2958.html)                   | -                        |
+| 5    | [试验直到第一次成功](https://chengzhaoxi.xyz/a8fe89ba.html)           | -                        |
+| 6    | [公司从用户一次游戏取得的收入](https://chengzhaoxi.xyz/cbac9217.html) | 全期望公式、期望DP       |
+| 7    | [向正方形区域扔硬币](https://chengzhaoxi.xyz/ecb676f8.html)           | -                        |
+| 8    | [祝你好运](https://chengzhaoxi.xyz/997685ba.html)                     | -                        |
+| 9    | [资助赌徒](https://chengzhaoxi.xyz/b39ddb37.html)                     | -                        |
+| 10   | [完美手牌](https://chengzhaoxi.xyz/c5969f62.html)                     | -                        |
+| 11   | [双骰子赌博](https://chengzhaoxi.xyz/d8864c7f.html)                   | -                        |
+| 12   | [收集优惠券](https://chengzhaoxi.xyz/3b094aed.html)                   | 设计随机变量、全期望公式 |
 
 
 

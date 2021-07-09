@@ -33,6 +33,8 @@
 | 10   | [完美手牌](https://chengzhaoxi.xyz/c5969f62.html)                     | -                        |
 | 11   | [双骰子赌博](https://chengzhaoxi.xyz/d8864c7f.html)                   | -                        |
 | 12   | [收集优惠券](https://chengzhaoxi.xyz/3b094aed.html)                   | 设计随机变量、全期望公式 |
+| 13   | [一排座位](https://chengzhaoxi.xyz/45af2f3.html)                      | 全期望公式、期望DP       |
+| 14   | [第二强的选手是否拿亚军](https://chengzhaoxi.xyz/26b83c46.html)       | -                        |
 
 
 

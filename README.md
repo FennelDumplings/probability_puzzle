@@ -35,6 +35,8 @@
 | 12   | [收集优惠券](https://chengzhaoxi.xyz/3b094aed.html)                   | 设计随机变量、全期望公式 |
 | 13   | [一排座位](https://chengzhaoxi.xyz/45af2f3.html)                      | 全期望公式、期望DP       |
 | 14   | [第二强的选手是否拿亚军](https://chengzhaoxi.xyz/26b83c46.html)       | -                        |
+| 15   | [孪生骑士](https://chengzhaoxi.xyz/9e8462fe.html)                     | 条件概率                 |
+| 16   | [塞缪尔·佩皮斯的问题](https://chengzhaoxi.xyz/f7d03b7c.html)          | 全概率公式、概率DP       |
 
 
 

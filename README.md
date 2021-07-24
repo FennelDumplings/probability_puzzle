@@ -42,7 +42,7 @@
 
 ---
 
-![](https://chengzhaoxi.xyz/about/qrcode_baguwen.jpeg)
+![](https://raw.githubusercontent.com/FennelDumplings/images/master/mp/qrcode_baguwen.jpeg?token=AGK6ROBY6FBNEUC7FRSHKRLA7QCRO)
 
 
 

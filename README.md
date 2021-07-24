@@ -37,9 +37,12 @@
 | 14   | [第二强的选手是否拿亚军](https://chengzhaoxi.xyz/26b83c46.html)       | -                        |
 | 15   | [孪生骑士](https://chengzhaoxi.xyz/9e8462fe.html)                     | 条件概率                 |
 | 16   | [塞缪尔·佩皮斯的问题](https://chengzhaoxi.xyz/f7d03b7c.html)          | 全概率公式、概率DP       |
+| 17   | [三人枪战](https://chengzhaoxi.xyz/6e9feb0d.html)                     | -                        |
+| 18   | [抽球猜桶](https://chengzhaoxi.xyz/f905bb10.html)                     | 贝叶斯公式               |
 
+---
 
-
+![](https://chengzhaoxi.xyz/about/qrcode_baguwen.jpeg)
 
 
 

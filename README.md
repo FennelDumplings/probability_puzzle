@@ -19,26 +19,35 @@
 
 由于 github 的 markdown 不支持 LaTeX 公式，因此链接给的是我的网站的链接，阅读效果更好。
 
-| 编号 | 题目                                                                  | 备注                     |
-| --   | --                                                                    | -                        |
-| 1    | [抽屉中的袜子](https://chengzhaoxi.xyz/5b96d3b7.html)                 | -                        |
-| 2    | [系列赛中连续获胜](https://chengzhaoxi.xyz/7baa7d02.html)             | -                        |
-| 3    | [轻率的陪审团](https://chengzhaoxi.xyz/562429f2.html)                 | -                        |
-| 4    | [三人循环赛](https://chengzhaoxi.xyz/5ddc2958.html)                   | -                        |
-| 5    | [试验直到第一次成功](https://chengzhaoxi.xyz/a8fe89ba.html)           | -                        |
-| 6    | [公司从用户一次游戏取得的收入](https://chengzhaoxi.xyz/cbac9217.html) | 全期望公式、期望DP       |
-| 7    | [向正方形区域扔硬币](https://chengzhaoxi.xyz/ecb676f8.html)           | -                        |
-| 8    | [祝你好运](https://chengzhaoxi.xyz/997685ba.html)                     | -                        |
-| 9    | [资助赌徒](https://chengzhaoxi.xyz/b39ddb37.html)                     | -                        |
-| 10   | [完美手牌](https://chengzhaoxi.xyz/c5969f62.html)                     | -                        |
-| 11   | [双骰子赌博](https://chengzhaoxi.xyz/d8864c7f.html)                   | -                        |
-| 12   | [收集优惠券](https://chengzhaoxi.xyz/3b094aed.html)                   | 设计随机变量、全期望公式 |
-| 13   | [一排座位](https://chengzhaoxi.xyz/45af2f3.html)                      | 全期望公式、期望DP       |
-| 14   | [第二强的选手是否拿亚军](https://chengzhaoxi.xyz/26b83c46.html)       | -                        |
-| 15   | [孪生骑士](https://chengzhaoxi.xyz/9e8462fe.html)                     | 条件概率                 |
-| 16   | [塞缪尔·佩皮斯的问题](https://chengzhaoxi.xyz/f7d03b7c.html)          | 全概率公式、概率DP       |
-| 17   | [三人枪战](https://chengzhaoxi.xyz/6e9feb0d.html)                     | -                        |
-| 18   | [抽球猜桶](https://chengzhaoxi.xyz/f905bb10.html)                     | 贝叶斯公式               |
+| 编号 | 题目                                                                     | 备注                     |
+| --   | --                                                                       | -                        |
+| 1    | [抽屉中的袜子](https://chengzhaoxi.xyz/5b96d3b7.html)                    | -                        |
+| 2    | [系列赛中连续获胜](https://chengzhaoxi.xyz/7baa7d02.html)                | -                        |
+| 3    | [轻率的陪审团](https://chengzhaoxi.xyz/562429f2.html)                    | -                        |
+| 4    | [三人循环赛](https://chengzhaoxi.xyz/5ddc2958.html)                      | -                        |
+| 5    | [试验直到第一次成功](https://chengzhaoxi.xyz/a8fe89ba.html)              | -                        |
+| 6    | [公司从用户一次游戏取得的收入](https://chengzhaoxi.xyz/cbac9217.html)    | 全期望公式、期望DP       |
+| 7    | [向正方形区域扔硬币](https://chengzhaoxi.xyz/ecb676f8.html)              | -                        |
+| 8    | [祝你好运](https://chengzhaoxi.xyz/997685ba.html)                        | -                        |
+| 9    | [资助赌徒](https://chengzhaoxi.xyz/b39ddb37.html)                        | -                        |
+| 10   | [完美手牌](https://chengzhaoxi.xyz/c5969f62.html)                        | -                        |
+| 11   | [双骰子赌博](https://chengzhaoxi.xyz/d8864c7f.html)                      | -                        |
+| 12   | [收集优惠券](https://chengzhaoxi.xyz/3b094aed.html)                      | 设计随机变量、全期望公式 |
+| 13   | [一排座位](https://chengzhaoxi.xyz/45af2f3.html)                         | 全期望公式、期望DP       |
+| 14   | [第二强的选手是否拿亚军](https://chengzhaoxi.xyz/26b83c46.html)          | -                        |
+| 15   | [孪生骑士](https://chengzhaoxi.xyz/9e8462fe.html)                        | 条件概率                 |
+| 16   | [塞缪尔·佩皮斯的问题](https://chengzhaoxi.xyz/f7d03b7c.html)             | 全概率公式、概率DP       |
+| 17   | [三人枪战](https://chengzhaoxi.xyz/6e9feb0d.html)                        | -                        |
+| 18   | [不公平的硬币](https://chengzhaoxi.xyz/52c92ad.html)                     | 贝叶斯公式               |
+| 19   | [不公平的硬币2](https://chengzhaoxi.xyz/b2b74dca.html)                   | 贝叶斯公式               |
+| 20   | [不公平的硬币3](https://chengzhaoxi.xyz/c5b07d5c.html)                   | 贝叶斯公式               |
+| 21   | [不公平的硬币4](https://chengzhaoxi.xyz/5bd4e8ff.html)                   | 贝叶斯公式               |
+| 22   | [有放回抽样还是无放回抽样](https://chengzhaoxi.xyz/f905bb10.html)        | 贝叶斯公式               |
+| 23   | [圆周上随机取3个点形成锐角三角形](https://chengzhaoxi.xyz/19bd5f5f.html) | 几何概型                 |
+| 24   | [选票盒](https://chengzhaoxi.xyz/f0f7c7a1.html)                          | 概率DP                   |
+| 25   | [系列赛中不出现平局](https://chengzhaoxi.xyz/8d5da794.html)              | 概率DP                   |
+| 26   | [仓促的决斗](https://chengzhaoxi.xyz/e72d925c.html)                      | 几何概型                 |
+| 27   | [较短的一节木棍](https://chengzhaoxi.xyz/ca9456d5.html)                  | 连续型随机变量           |
 
 ---
 

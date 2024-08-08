@@ -6,7 +6,7 @@
 
 对于每道题，首先给出思路参考，从概率论的角度推公式求解。然后用蒙特卡洛模拟的方式验证结果，编程语言用的是 Python。
 
----
+如果有问题可以 [联系我](https://chengzhaoxi.xyz/algorithm_tss/index.html) 进行沟通交流。
 
 # 参考书
 
@@ -48,12 +48,4 @@
 | 25   | [系列赛中不出现平局](https://chengzhaoxi.xyz/8d5da794.html)              | 概率DP                   |
 | 26   | [仓促的决斗](https://chengzhaoxi.xyz/e72d925c.html)                      | 几何概型                 |
 | 27   | [较短的一节木棍](https://chengzhaoxi.xyz/ca9456d5.html)                  | 连续型随机变量           |
-
----
-
-<div>
-<iframe src="https://chengzhaoxi.xyz/algorithm_tss/index.html" width="100%" height="667" scrolling=no></iframe>
-</div>
-
-
 
